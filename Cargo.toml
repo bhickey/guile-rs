@@ -5,7 +5,7 @@ authors = ["David Li <li.davidm96@gmail.com>"]
 
 description = "Safe bindings to GNU Guile."
 repository = "https://github.com/lidavidm/guile-rs"
-license = "GPL-3.0"
+license = "LGPL-3.0"
 
 [dependencies]
 libc="0.2"
